@@ -7,8 +7,7 @@ start: 2018-12-02
 end: 2018-12-02
 published: 2019-01-05
 url: http://proceedings.mlr.press
-location: !binary |-
-  TGUgMTAwMCBDb25mZXJlbmNlIENlbnRlciwgTW9udHLpYWwsIFFDIEgzQiAwQTIsIENhbmFkYQ==
+location: "Le 1000 Conference Center, Montréal, QC H3B 0A2, Canada"
 layout: proceedings
 series: Proceedings of Machine Learning Research
 id: AABI-2018
@@ -26,7 +25,8 @@ editor:
   family: Bui
 title: Proceedings of Machine Learning Research
 description: |
-  Proceedings of The 1st Symposium on Advances in Approximate Bayesian Inference on 02 December 2018
+  Proceedings of The 1st Symposium on Advances in Approximate Bayesian Inference on 2nd December 2018 at 
+  Le 1000 Conference Center, Montréal, QC H3B 0A2, Canada
 
   Published as Volume 96 by the Proceedings of Machine Learning Research on 05 January 2019.
 
