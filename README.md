@@ -6,7 +6,8 @@ To edit the details of this conference work [edit the _config.yml](./_config.yml
 
 To make changes to the individual paper details, edit the associated paper file in the [./_posts](./_posts) subdirectory.
 
-Proceedings of The 1st Symposium on Advances in Approximate Bayesian Inference on 02 December 2018
+Proceedings of The 1st Symposium on Advances in Approximate Bayesian Inference on 2nd December 2018 at 
+Le 1000 Conference Center, Montréal, QC H3B 0A2, Canada
 
 Published as Volume 96 by the Proceedings of Machine Learning Research on 05 January 2019.
 
